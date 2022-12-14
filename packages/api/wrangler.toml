@@ -1,0 +1,7 @@
+name = "api"
+main = "src/main.ts"
+compatibility_date = "2022-12-11"
+[[ d1_databases ]]
+binding = "DB" # i.e. available in your Worker on env.DB
+database_name = "api-db"
+database_id = "901eb558-82a8-44ee-9d23-4195bee4259d"
