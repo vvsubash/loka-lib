@@ -1,0 +1,8 @@
+name = "loka-lib"
+compatibility_date = "2022-12-15"
+main = "./packages/fe/.output/server/index.mjs"
+
+[site]
+bucket = "./packages/fe/.output/public"
+
+
